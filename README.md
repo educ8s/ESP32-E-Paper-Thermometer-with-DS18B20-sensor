@@ -22,7 +22,7 @@ This is a simple ESP32 E-Paper Thermometer with DS18B20 sensor. The project uses
 
 # How to use the E-Paper display
 
-E-Paper or Electronic paper are displays that unlike traditional LCD or OLED displays does not emit light but reflect light. It is like the ink on the paper. This characteristic makes e-paper displays very comfortable to read, and they have excellent readability under direct sunlight. Another great thing about e-paper displays is that they can hold static text and images for months without electricity! Yes, that’s correct, the display can show text and images even when it is off! That makes e-paper displays ideal for low powered projects! Watch the video review of this display that I have prepared for more info.
+E-Paper or Electronic paper are displays that unlike traditional LCD or OLED displays does not emit light but reflect light. It is like the ink on the paper. This characteristic makes e-paper displays very comfortable to read, and they have excellent readability under direct sunlight. Another great thing about e-paper displays is that they can hold static text and images for months without electricity! Yes, that’s correct, the display can show text and images even when it is off! That makes e-paper displays ideal for low powered projects! Watch the [video review](https://www.youtube.com/watch?v=UBEhod2wxvE) of this display that I have prepared for more info.
 
 <p align="center">
   <img src="demo2.jpg" alt="How to use the E-Paper Display" width="1280">
