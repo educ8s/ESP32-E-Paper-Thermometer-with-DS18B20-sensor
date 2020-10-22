@@ -9,17 +9,17 @@ This is a simple ESP32 E-Paper Thermometer with DS18B20 sensor.
 
 # Parts used
 
-🛒 Arduino Xiao: http://educ8s.tv/part/xiao
+🛒 ESP32 ▶ https://educ8s.tv/part/ESP32
 
-🛒 SSD1306 OLED: http://educ8s.tv/part/OLED096
+🛒 E-Paper Display ▶ https://educ8s.tv/part/EPaper154
 
-🛒 Photoresistor: http://educ8s.tv/part/Photoresistors
+🛒 DS18B20 ▶ https://educ8s.tv/part/DS18B20
 
-🛒 100K resistor: http://educ8s.tv/part/Resistors
+🛒 Breadboard: https://educ8s.tv/part/SmallBreadboard
 
 🛒 Breadboard: http://educ8s.tv/part/SmallBreadboard
 
-🛒 Wires: http://educ8s.tv/part/JumperWires
+🛒 Wires: https://educ8s.tv/part/Wires
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
