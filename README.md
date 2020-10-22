@@ -15,9 +15,9 @@ This is a simple ESP32 E-Paper Thermometer with DS18B20 sensor.
 
 🛒 DS18B20 ▶ https://educ8s.tv/part/DS18B20
 
-🛒 Breadboard: https://educ8s.tv/part/SmallBreadboard
+🛒 Breadboard ▶ https://educ8s.tv/part/SmallBreadboard
 
-🛒 Wires: https://educ8s.tv/part/Wires
+🛒 Wires ▶ https://educ8s.tv/part/Wires
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
