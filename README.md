@@ -1,11 +1,11 @@
 # ESP32-E-Paper-Thermometer-with-DS18B20-sensor
 This is a simple ESP32 E-Paper Thermometer with DS18B20 sensor. 
 
-p align="center">
+<p align="center">
   <img src="demo.jpg" alt="ESP32 E-Paper Thermometer" width="1280">
 </p>
 
-🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=zjhoc0t7I_0)
+🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=KKfFgdhtfzk)
 
 # Parts used
 
