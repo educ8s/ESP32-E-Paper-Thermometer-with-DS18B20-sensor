@@ -2,7 +2,7 @@
 This is a simple ESP32 E-Paper Thermometer with DS18B20 sensor. 
 
 p align="center">
-  <img src="demo.jpg" alt="CircuitPython Light Meter" width="1280">
+  <img src="demo.jpg" alt="ESP32 E-Paper Thermometer" width="1280">
 </p>
 
 🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=zjhoc0t7I_0)
