@@ -17,18 +17,16 @@ This is a simple ESP32 E-Paper Thermometer with DS18B20 sensor.
 
 🛒 Breadboard: https://educ8s.tv/part/SmallBreadboard
 
-🛒 Breadboard: http://educ8s.tv/part/SmallBreadboard
-
 🛒 Wires: https://educ8s.tv/part/Wires
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
-# How to install CircuitPython on the Seeeduino Xiao
+# How to use the E-Paper display
 
 The Seeeduino Xiao board comes with the Arduino bootloader pre-loaded when you buy it. If you want to program it using CircuitPython you have to load the CircuitPython bootloader to it. Watch the following video to find out how to do it.
 
 <p align="center">
-  <img src="install_circuitpython.jpg" alt="How to install CircuitPython" width="800">
+  <img src="install_circuitpython.jpg" alt="How to use the E-Paper Display" width="800">
 </p>
 
 🎥 [Watch the video on YouTube](https://www.youtube.com/watch?v=1GKF9u7pVgs)
