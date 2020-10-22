@@ -40,6 +40,6 @@ The Seeeduino Xiao board comes with the Arduino bootloader pre-loaded when you b
 
 # Credits & Thanks
 
-  - Kudos to [Adafruit Industries](https://github.com/adafruit) for being the creator of the display libraries without which this project would not exist.
+  - Kudos to [ZinggJM](https://github.com/ZinggJM) for being the creator of the GxEPD library without which this project would not exist.
 
 
